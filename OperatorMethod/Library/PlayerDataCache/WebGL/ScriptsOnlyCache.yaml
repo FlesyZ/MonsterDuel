@@ -538,4 +538,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - "Assets/\u7DF4\u7FD2\u5834\u666F.unity"
-  playerPath: C:/Users/409-01/Desktop/GITHUB/MonsterDuel/OperatorMethod_MonsterDuel
+  playerPath: C:/Users/409-01/Desktop/GITHUB/MonsterDuel/Duel
